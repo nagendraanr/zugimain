@@ -1,0 +1,46 @@
+footer {
+    background-color: #172337;
+    color: white;
+    padding-top: 3%;
+}
+
+.Footer h6 {
+    color: #82b5b8;
+    font-size: .8em;
+}
+
+.Footer>div {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-between;
+    font-size: .75em;
+    font-weight: 200;
+}
+
+.Footer a {
+    color: rgb(255, 255, 255);
+    line-height: 1.3rem;
+}
+
+.Footer p {
+    margin: 0;
+    font-size: .96em;
+    line-height: 1.2rem;
+}
+
+footer i {
+    color: gold;
+}
+
+footer span {
+    font-size: .75em;
+    cursor: pointer;
+}
+.card{
+    padding: 10px;
+}
+
+.card-title a {
+    text-decoration: none; /* Remove underline */
+    color: black; /* Change color to black or your desired color */
+  }
